@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import Popup from 'reactjs-popup'
 import {RiCloseLine} from 'react-icons/ri'
-import {BgContainer} from './styledComponent'
+
 import './index.css'
 
 class RockPaperScissors extends Component {
